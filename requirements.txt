@@ -1,0 +1,5 @@
+Calculator
+- It should add numbers.
+- It should subtract numbers.
+- It should multiply numbers.
+- It should divide numbers.
